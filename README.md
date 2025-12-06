@@ -1,51 +1,7 @@
-# Google-Ciberseguran-a---Classificar-os-recursos-conectados-a-uma-rede-dom-stica
-Atividade para classificar os recursos conectados a uma rede de computadores de um escritório doméstico.
-<hr>
-<h2>Cenário:</h2>
-  <p>Um dos recursos mais valiosos do mundo atual são as Informações. A maioria das informações é acessada por meio de uma rede. Há uma tendência de haver uma variedade de dispositivos conectados a uma rede e cada um deles é um possível ponto de entrada para outros recursos.</p>
-  <p>Um inventário dos dispositivos de rede pode ser uma ferramenta útil de gerenciamento de recursos. Um inventário pode destacar recursos confidenciais que exigem proteção extra.</p>
-  <p>Você está operando uma pequena empresa em sua casa e precisa criar um inventário de seus dispositivos de rede. Isso o ajudará a determinar quais deles contêm informações confidenciais que exigem proteção extra.</p>
-  <p>Para fazer isso, comece identificando três dispositivos que têm acesso à sua rede doméstica. Isso pode incluir dispositivos como:</p>
-    <ul>
-      <li>Computadores da área de trabalho ou laptops</li>
-      <li>Smartphones</li>
-      <li>Dispositivos domésticos inteligentes</li>
-      <li>Consoles de jogos</li>
-      <li>Dispositivos de armazenamento ou servidores</li>
-      <li>Dispositivos de streaming de vídeo</li>
-    </ul>
-  <p>Em seguida, você listará as características importantes de cada dispositivo, como proprietário, local e tipo. Por fim, você atribuirá a cada dispositivo um nível de sensibilidade com base na importância de sua proteção.</p>
+# Google Cibersecurity
+Repositório criado para anexar as atividades praticas realizadas no curso de Cibersegurança do Google
 
 <hr>
 
-<h2>Passo a passo:</h2>
-<h3>Passo 1: Identificar recursos</h3>
-  <p>Na Planilha de inventário de recursos, localize o Cabeçalho da coluna <b>Ativo</b>. Considere os dispositivos que podem estar conectados à rede doméstica. Examine os dispositivos no gráfico do cenário para ajudá-lo a fazer um brainstorming.</p>
-  <p>Escolha três dispositivos que ainda não estejam listados na Planilha e adicione-os às linhas vazias da coluna <b>Asset</b>.</p>
-
-<h3>Passo 2: Preencha as características de cada recurso</h3>
-  <p>Liste as características importantes, incluindo o <b>acesso à rede, o proprietário e a localização</b> de cada recurso que você identificou.</p>
-  <p>Aqui está uma explicação de cada característica:</p>
-    <ul>
-      <li>O <b>acesso à rede</b> descreve a frequência com que o dispositivo é conectado à rede.</li>
-      <li>O <b>proprietário</b> descreve a pessoa responsável pelo dispositivo.</li>
-      <li>A <b>localização</b> descreve onde o dispositivo está localizado em relação ao roteador.</li>
-    </ul>
-
-<h3>Passo 3: Avalie o acesso aos dispositivos de rede</h3>
-  <p>Revisar as informações que você listou nas colunas Acesso à rede, Proprietário e Localização.</p>
-  <p>Na coluna Notas, registre um ou dois detalhes ou características de cada dispositivo. Faça isso fazendo perguntas a si mesmo sobre cada um deles:</p>
-    <ul>
-      <li>Que tipo de informação é armazenada no dispositivo?</li>
-      <li>Como ele se conecta à rede?</li>
-      <li>O proprietário é cuidadoso com a segurança do dispositivo?</li>
-    </ul>
-
-<h3>Passo 4: Classifique a sensibilidade dos dispositivos de rede</h3>
-  <p>É hora de classificar os recursos com base nas informações coletadas.</p>
-  <p>Faça isso pensando em como um recurso poderia impactar sua empresa se sua segurança fosse comprometida:</p>
-    <ul>
-      <li>Que tipos de informações seriam divulgadas ou roubadas?</li>
-      <li>Um ataque poderia alterar as informações no dispositivo?</li>
-      <li>O que aconteceria com a empresa se essas informações fossem destruídas?</li>
-    </ul>
+<h2>Informações:</h2>
+  <p>Cada diretório criado representa uma etapa do curso, junto as atividades propostas.</p>
