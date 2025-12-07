@@ -1,0 +1,69 @@
+<h1> Google Cibersegurança: Pontuar os riscos com base em sua probabilidade e gravidade </h1>
+Atividade utilizada para avaliar as vulnerabilidades que comumente ameaçam as operações comerciais e decidir como priorizar seus recursos com base nas pontuações de risco atribuídas a cada vulnerabilidade..
+<hr>
+<h2>Cenário:</h2>
+  <p>Você entrou para uma nova equipe de segurança cibernética em um banco comercial. A equipe está realizando uma Avaliação de risco do ambiente operacional atual do banco. Como parte da Avaliação de risco, eles estão criando um Registro de riscos para ajudá-los a se concentrar na proteção dos riscos mais vulneráveis.</p>
+  <p>Um <b>registro</b> de riscos é um registro central dos riscos potenciais para os recursos, sistemas de informação e dados de uma organização. As Equipes de segurança geralmente usam Registros de riscos ao realizar uma Avaliação de riscos.</p>
+  <p>Seu supervisor pede que você avalie um conjunto de riscos que a equipe de segurança cibernética registrou no registro de riscos. Para cada risco, você primeiro determinará a probabilidade de ocorrência desse risco. Em seguida, você determinará a gravidade do impacto que esse risco pode causar no banco. Por fim, você calculará uma pontuação para a gravidade desse Risco. Em seguida, compare as pontuações de todos os riscos para que sua Equipe possa determinar como priorizar a atenção para cada risco.</p>
+  
+<hr>
+
+<h2>Passo a passo:</h2>
+<h3>Passo 1: Compreender o ambiente operacional</h3>
+  <p>Ao realizar uma avaliação de risco, é importante considerar os fatores que podem causar um evento de segurança. Isso geralmente começa com a compreensão do ambiente operacional.</p>
+  <p>Nesse cenário, sua equipe identificou características do ambiente operacional que podem influenciar o perfil de risco do banco:</p>
+  <p><em>O banco está localizado em uma área costeira com baixos índices de criminalidade. Muitas pessoas e sistemas lidam com os dados do banco - 100 funcionários no local e 20 funcionários remotos. A base de clientes do banco inclui 2.000 contas individuais e 200 contas comerciais. Os serviços do banco são comercializados por uma equipe esportiva profissional e dez empresas locais da comunidade. Há normas financeiras rigorosas que exigem que o banco proteja seus dados e fundos, como ter dinheiro suficiente disponível todos os dias para atender às exigências do Federal Reserve.</em></p>
+
+<h3>Passo 2: Considere os possíveis Riscos para os recursos</h3>
+  <p>Eventos de segurança são possíveis quando os ativos estão em risco. A fonte de um risco pode variar de atacantes mal-intencionados a erros humanos acidentais. Uma fonte de risco pode até mesmo vir de perigos naturais ou ambientais, como uma falha estrutural ou falta de energia.</p>
+  <p>Os fundos do banco são um de seus principais ativos. Sua equipe listou cinco riscos principais para os fundos do banco:</p>
+    <ul>
+      <li>Comprometimento do e-mail comercial</li>
+      <li>Comprometimento do banco de dados de usuários</li>
+      <li>Vazamento de registros financeiros</li>
+      <li>Roubo</li>
+      <li>Ataque à cadeia de suprimentos</li>
+    </ul>
+  <p>Considere esses riscos potenciais em relação ao ambiente operacional do banco. Em seguida, escreva de <b>2 a 3 frases</b> (40 a 60 palavras) na área de <b>Notas</b> do modelo, descrevendo como os eventos de segurança são possíveis, considerando os riscos enfrentados pelos fundos nesse ambiente operacional.</p>
+
+<h3>Passo 3: Classifique os riscos com base em sua probabilidade</h3>
+  <p>Como você deve se lembrar, o risco pode ser calculado com esta fórmula simples:</p>
+  <p><b>Probabilidade x Impacto = Risco</b></p>
+  <p>Para calcular a pontuação de um risco de segurança, você deve primeiro estimar e pontuar a probabilidade de o risco causar um evento de segurança. A probabilidade de um risco pode se basear nas evidências disponíveis, na experiência anterior ou no julgamento de especialistas. Uma maneira comum de estimar a probabilidade do risco é determinar a frequência potencial de ocorrência do risco:</p>
+    <ul>
+      <li><i>O risco pode ocorrer uma vez por dia?</li>
+      <li>O risco pode ocorrer uma vez por mês?</li>
+      <li>O risco pode ocorrer uma vez em um ano?</i></li>
+    </ul>
+  <p>Por exemplo, o banco precisa ter fundos suficientes disponíveis todos os dias para atender às suas exigências legais. Um risco em potencial que poderia impedir o banco de reabastecer seus fundos é uma interrupção na Cadeia de Suprimentos. Por estar localizado em uma área costeira, é provável que o banco sofra interrupções na cadeia de suprimentos causadas por furacões. No entanto, um furacão pode afetar o banco apenas a cada poucos anos, portanto, você pode classificar a probabilidade como baixa.</p>
+  <p>Nesse caso, a equipe está classificando a probabilidade de um evento em uma escala de 1 a 3:</p>
+    <ul>
+      <li><i>1 representa um evento com baixa chance de ocorrer.</li>
+      <li>2 representa um evento com uma chance moderada de ocorrer.</li>
+      <li>3 representa uma alta chance de ocorrer.</i></li>
+    </ul>
+  <p>Analise o (s) <b>risco(s), a descrição e as notas</b> do modelo de Registro de Riscos. Consulte a matriz de riscos e use-a para estimar uma pontuação de probabilidade para cada risco. Em seguida, insira uma <b>pontuação (1-3)</b> para cada risco na coluna <b>Probabilidade</b> do Registro de <b>Riscos</b>. </p>
+  <p>Para essa atividade prática, suas estimativas de "Probabilidade" e "Gravidade" devem se basear em uma interpretação razoável do "Ambiente operacional" e da "Descrição do risco" fornecidos, aplicando o conhecimento geral do setor sobre vulnerabilidades comuns e seu impacto potencial. Embora as avaliações do mundo real envolvam dados extensos, aqui você está praticando o processo de avaliação de risco.</p>
+
+<h3>Passo 4: Classifique os riscos com base em sua gravidade</h3>
+  <p>Uma pontuação de gravidade é uma estimativa do impacto geral que pode ocorrer como resultado de um evento. Por exemplo, podem ocorrer danos à reputação ou às finanças de uma empresa e pode haver perda de dados, clientes ou ativos. A avaliação da gravidade de um risco ajuda as empresas a determinar o nível de risco que podem tolerar e como os ativos podem ser afetados.</p>
+  <p>Ao avaliar a gravidade de um risco, considere as possíveis consequências da ocorrência desse risco:</p>
+    <ul>
+      <li><i>Como a empresa seria afetada?</li>
+      <li>Qual é o prejuízo financeiro para a empresa e seus clientes?</li>
+      <li>Operações ou serviços importantes podem ser afetados?</li>
+      <li>Há regulamentos que podem ser violados?</li>
+      <li>Qual é o dano à reputação da empresa?</i></li>
+    </ul>
+  <p>Use a linha superior da matriz de riscos e considere o impacto potencial de cada risco. Estime uma pontuação de gravidade para cada risco. Em seguida, insira uma pontuação (1-3) para cada risco na coluna Gravidade do registro:</p>
+    <ul>
+      <ol>1 - Gravidade baixa</ol>
+      <ol>2 - Gravidade moderada</ol>
+      <ol>3 - Gravidade alta</ol>
+    </ul>
+  <p>Por exemplo, um vazamento de registros financeiros pode resultar em perda de lucros, perda de clientes e multas regulatórias pesadas. Um risco como esse pode receber uma pontuação de gravidade de 3 porque afeta muito a capacidade de operação do banco.</p>
+
+<h3>Passo 5: Calcular uma pontuação geral de Risco</h3>
+  <p>Em última análise, a meta de realizar uma Avaliação de risco é ajudar as equipes de segurança a priorizar seus esforços e recursos.</p>
+  <p>Usando a fórmula de risco, multiplique a probabilidade e a pontuação de gravidade de cada risco. Em seguida, insira uma <b>pontuação</b> de prioridade  (1-9) para cada um dos riscos na coluna <b>Prioridade</b> do registro.</p>
+
