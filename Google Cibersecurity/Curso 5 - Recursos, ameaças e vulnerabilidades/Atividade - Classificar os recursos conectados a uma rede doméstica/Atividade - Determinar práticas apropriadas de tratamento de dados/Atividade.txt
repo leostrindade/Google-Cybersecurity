@@ -1,0 +1,30 @@
+<h1> Google Cibersegurança: Determinar práticas apropriadas de tratamento de dados </h1>
+Analisar os resultados de uma avaliação de risco de dados e determinar se estão sendo implementados processos eficazes de processamento de dados para proteger a privacidade dos dados.
+<hr>
+<h2>Cenário:</h2>
+  <p>Você trabalha em uma empresa de tecnologia educacional que desenvolveu um aplicativo para ajudar os professores a avaliar automaticamente as tarefas. O aplicativo lida com uma ampla gama de dados que coleta de instituições acadêmicas, instrutores, pais e alunos.</p>
+  <p>Sua equipe foi alertada sobre um vazamento de dados de planos internos de negócios nas mídias sociais. Uma investigação da equipe descobriu que um funcionário compartilhou acidentalmente esses documentos de confidencialidade com um parceiro de negócios externo. Uma auditoria sobre o vazamento está em andamento para determinar como incidentes semelhantes podem ser evitados.</p>
+  <p>Um supervisor lhe forneceu informações sobre o vazamento. Parece que o princípio do privilégio mínimo não foi observado pelos funcionários da empresa durante uma reunião de vendas. Foi solicitado que você analisasse a situação e encontrasse maneiras de evitar que isso ocorra novamente.</p>
+  <p>Primeiro, você precisará avaliar os detalhes sobre o incidente. Depois, analisará os controles em vigor para evitar vazamentos de dados. Em seguida, você identificará maneiras de melhorar a privacidade das informações na empresa. Por fim, justificará por que acha que suas recomendações tornarão mais seguro o manuseio de dados na empresa.</p>
+
+<hr>
+
+<h2>Passo a passo:</h2>
+<h3>Passo 1: Analisar a situação</h3>
+  <p>O princípio do menor privilégio é um controle de segurança fundamental que ajuda a manter a privacidade das informações. No entanto, o privilégio mínimo começa a perder sua eficácia quando muitos usuários têm acesso às informações. Os vazamentos de dados geralmente acontecem quando as informações são passadas entre as pessoas sem supervisão.</p>
+  <p>Para iniciar sua análise, examine o seguinte resumo de incidente fornecido pelo seu supervisor:</p>
+  <p><em>Um representante de sucesso do cliente recebeu de um gerente acesso a uma pasta de documentos internos. Ela continha arquivos associados a uma nova oferta de produto, incluindo análises de clientes e materiais de marketing. O gerente esqueceu de cancelar o compartilhamento da pasta. Mais tarde, o representante copiou um link para os materiais de marketing para compartilhar com um parceiro de negócios durante uma chamada de vendas. Em vez disso, o representante compartilhou um link para a pasta inteira. Durante a chamada de vendas, o parceiro de negócios recebeu o link para os documentos internos e o publicou em sua página de mídia social.</em></p>
+  <p>Depois de analisar o resumo, escreva de <b>20 a 60 palavras (2 a 3 frases)</b> na linha Issue(s) da planilha Data leak (Vazamento de dados ) descrevendo os fatores que levaram ao vazamento de dados.</p>
+
+<h3>Passo 2: Revisar os controles atuais de Privacidade dos dados</h3>
+  <p>Os vazamentos de dados são um grande risco devido à quantidade de dados manipulados pelo aplicativo. A empresa usou a Estrutura de Segurança Cibernética (CSF) do NIST para desenvolver seu plano de abordagem das preocupações com a privacidade das informações.</p>
+  <p>Analise o recurso de <b>instantâneo do plano de segurança</b> da planilha. Em seguida, examine o recurso <b>NIST SP 800-53: AC-6</b> da planilha.</p>
+  <p>Depois, escreva de <b>20 a 60 palavras (2 a 3 frases)</b> na linha <b>Review (Revisão)</b> da planilha Data leak (Vazamento de dados ) para resumir o que você aprendeu sobre o NIST SP 800-53: AC-6.</p>
+
+<h3>Passo 3: Identificar melhorias no controle</h3>
+  <p>A implementação do privilégio mínimo da empresa baseia-se na Publicação Especial 800-53 do NIST (SP 800-53). O NIST desenvolveu a SP 800-53 para oferecer às empresas um plano de privacidade de informações personalizável. Trata-se de um recurso abrangente que descreve uma ampla gama de categorias de controle, incluindo o privilégio mínimo.</p>
+  <p>Use o recurso <b>NIST SP 800-53: AC-6</b> para determinar dois aprimoramentos de controle que poderiam ter evitado o vazamento de dados. Liste as <b>duas melhorias</b> na linha <b>Recomendação(ões)</b> da planilha.</p>
+
+<h3>Passo 4: Justifique suas recomendações</h3>
+  <p>Ao final de sua análise, é hora de comunicar suas descobertas ao seu supervisor. É importante justificar suas recomendações para que o supervisor possa Relé essas informações a outros tomadores de decisão na empresa.</p>
+  <p>Considere os Problemas que você identificou anteriormente. Em seguida, escreva de <b>20 a 60 palavras (2 a 3 frases)</b> na linha <b>Justificativa</b>, descrevendo por que acha que os aprimoramentos de controle recomendados reduzirão a probabilidade de outro vazamento de dados.</p>
