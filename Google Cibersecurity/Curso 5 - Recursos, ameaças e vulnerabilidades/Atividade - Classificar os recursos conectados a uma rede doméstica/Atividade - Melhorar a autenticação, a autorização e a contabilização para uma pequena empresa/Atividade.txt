@@ -1,0 +1,34 @@
+Cenário
+
+Analise o cenário abaixo. Em seguida, conclua as instruções passo a passo.
+
+Você é o primeiro profissional de segurança cibernética contratado por uma empresa em crescimento.
+
+Recentemente, foi feito um depósito da empresa em uma conta bancária desconhecida. O gerente financeiro diz que não cometeu nenhum erro. Felizmente, eles conseguiram interromper o pagamento. O proprietário pediu que você investigasse o que aconteceu para evitar futuros incidentes.
+
+Para isso, você precisará fazer uma contabilização do incidente para entender melhor o que aconteceu. Primeiro, você analisará o registro de acesso do incidente. Em seguida, você fará anotações que possam ajudá-lo a identificar um possível agente de ameaça. Em seguida, identificará os Problemas com os Controles de Acesso que foram explorados pelo usuário. Por fim, recomendará mitigações que possam melhorar os controles de acesso da empresa e reduzir a probabilidade de que esse incidente ocorra novamente.
+
+PASSO A PASSO:
+
+Etapa 1: Examine o registro de eventos desse incidente de folha de pagamento
+Os registros de eventos contêm informações relacionadas à operação e ao uso de um sistema. Eles podem ser utilizados para identificar atividades suspeitas, detectar vulnerabilidades e acompanhar usuários.
+
+Localize a guia Event log (Registro de eventos) da Planilha de exercícios de contabilização. Examine cuidadosamente o registro de eventos desse incidente para iniciar sua investigação. Observe o tipo de evento, a data, a hora e o endereço IP do usuário nos detalhes do registro.
+
+Faça uma ou duas anotações das informações que aprendeu sobre o usuário ao analisar os detalhes do registro de eventos. Adicione suas anotações à coluna Notes da planilha de controle de acesso.
+
+Etapa 2: Identifique os problemas de controle de acesso que levaram ao incidente
+Os detalhes da geração de registros dizem muito sobre um momento específico no tempo. Você pode encontrar outros detalhes úteis sobre um evento cruzando essas informações com outras fontes.
+
+Esta empresa tem uma série de funcionários diferentes. Atualmente, todos eles gerenciam os recursos da empresa usando uma unidade de nuvem compartilhada.
+
+Localize a guia Diretório de funcionários da Planilha de exercícios de contabilização. Compare as informações encontradas na guia Diretório de funcionários com as informações da guia Registro de eventos. Observe as semelhanças entre os detalhes do registro de eventos e os detalhes do diretório Employee.
+
+Em seguida, liste um ou dois problemas que você descobriu sobre como a empresa lida com o acesso dos funcionários na coluna Problema da planilha Controle de acesso.
+
+Etapa 3: Recomendar mitigações que possam evitar uma violação futura
+Você concluiu a contabilização do pagamento estranho e descobriu falhas na forma como a empresa lida com suas informações.
+
+Encontre a coluna Recomendação(ões ) da planilha Controle de acesso. Faça pelo menos duas recomendações de mitigações que a empresa pode implementar para evitar incidentes como esse no futuro.
+
+Por exemplo, uma recomendação pode ser a implementação de procedimentos para revogar o acesso a arquivos quando um funcionário não estiver mais na empresa.
