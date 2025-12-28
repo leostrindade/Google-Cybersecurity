@@ -1,0 +1,119 @@
+<h1> Google Cibersegurança: Analisar um sistema vulnerável para uma pequena empresa </h1>
+Avaliação de vulnerabilidade para uma pequena empresa.
+<hr>
+<h2>Cenário:</h2>
+  <p>Você é um analista de segurança cibernética recém-contratado para uma empresa de e-commerce. A empresa armazena informações em um servidor de banco de dados remoto, já que muitos dos funcionários trabalham remotamente em locais de todo o mundo. Os funcionários da empresa consultam ou solicitam regularmente dados do servidor para encontrar clientes em potencial. O banco de dados está aberto ao público desde o lançamento da empresa, há três anos. AS como profissional de segurança cibernética, você reconhece que manter o servidor do banco de dados aberto ao público é uma vulnerabilidade grave.</p>
+  <p>Você foi encarregado de realizar uma Avaliação de vulnerabilidade da situação para comunicar os possíveis riscos aos tomadores de decisão da empresa. Você deve criar um relatório por escrito que explique como o servidor vulnerável é um risco para as operações comerciais e como ele pode ser protegido.</p>
+
+<hr>
+
+<h2>Passo a passo:</h2>
+Passo 1: Abertura de um modelo de relatório e acessível aos materiais de apoio
+Usar os modelos a seguir para criar seu relatório escrito.
+  
+<h3>Passo 2: Revisar as informações sobre o servidor vulnerável
+Nesta atividade, fornecemos a você a Descrição do sistema e o Escopo do relatório de avaliação de vulnerabilidade no modelo fornecido. As avaliações de vulnerabilidade incluem uma descrição do sistema que está sendo avaliado e o Escopo do projeto.
+
+Analise aDescrição do sistema e o Escopo do relatório de avaliação de vulnerabilidade.
+
+A Descrição do sistema destaca os componentes, a arquitetura e as Dependências relevantes do sistema que está sendo avaliado. Todas essas partes e conexões compõem a superfície de ataque do sistema de informações vulnerável.
+
+O Escopo especifica o foco e os limites da avaliação. Por exemplo, você pode especificar que o escopo dessa avaliação está relacionado apenas à confidencialidade, disponibilidade e integridade dos dados no servidor - não à segurança física do servidor ou de seus sistemas de TI relacionados.
+
+Parte 2 - Realizar a Avaliação de risco
+Etapa 1: Explicar a finalidade do sistema de informações
+Use o recurso 
+NIST SP 800-30 Rev. 1
+ para concluir esta atividade.
+
+Depois de revisar a descrição e o escopo do sistema, você escreverá uma declaração de propósito. A seção de propósito ajuda as partes interessadas a entender o objetivo subjacente e o resultado pretendido da sua análise. Uma declaração de propósito também conecta os objetivos técnicos de sua análise com as metas definidas pela organização.
+
+Considere o que você sabe sobre o servidor:
+
+Qual é o valor do servidor de banco de dados para a empresa?
+
+Por que é importante para a empresa proteger os dados no servidor?
+
+Como o servidor poderia afetar a empresa se fosse desativado?
+
+Na seção Objetivo do Relatório, use as perguntas fornecidas e escreva de 3 a 5 frases (60 a 100 palavras) descrevendo o(s) motivo(s) para realizar essa análise de vulnerabilidade.
+
+Etapa 2: Identificar possíveis fontes de ameaças
+Explore a seção Fontes de ameaças do recurso NIST SP 800-30 Rev. 1. Usando o que você sabe sobre o servidor de banco de dados vulnerável, observe os tipos de ameaças e os exemplos descritos.
+
+Na coluna Fonte de Ameaça da tabela Avaliação de Risco de seu modelo, identifique três possíveis ameaças . Escolha as ameaças com base nas informações coletadas na descrição do sistema, no Escopo, na finalidade e no recurso NIST SP 800-30 Rev. 1.
+
+Etapa 3: Identificar possíveis eventos de ameaça
+O NIST SP 800-30 Rev. 1 fornece uma lista abrangente de possíveis eventos de segurança que podem comprometer um sistema de informações vulnerável - denominados eventos de ameaça. Essa lista abrange o que os atacantes de diferentes grupos normalmente tentam alcançar e o quanto são bons nisso. Por exemplo, um concorrente comercial pode ter os recursos técnicos necessários para realizar um ataque de negação de serviço.
+
+Explore a seção Eventos de ameaça no recurso. Em seguida, identifique três eventos de ameaça que poderiam ser iniciados com base nas fontes de ameaça que você identificou. Escreva os três eventos de ameaça na coluna Evento de ameaça da tabela de Avaliação de risco em seu modelo.
+
+Etapa 4: Calcular o Risco de possíveis ameaças
+Você deve se lembrar, de uma leitura anterior 
+sobre o cálculo de riscos
+, que as ameaças e vulnerabilidades potenciais são fatores importantes a serem considerados ao avaliar a segurança de um recurso.
+
+Consulte as seções de probabilidade e gravidade do recurso NIST SP 800-30 Rev. 1 e faça a si mesmo as seguintes perguntas sobre cada ameaça que você identificou anteriormente:
+
+Com que frequência isso pode acontecer?
+
+As funções essenciais do Business-to-business seriam afetadas?
+
+Como isso pode afetar a empresa e seus Clientes?
+
+Em seguida, estime uma pontuação de Probabilidade (1-3) e uma pontuação de Gravidade (1-3) para cada ameaça e adicione suas pontuações às colunas correspondentes da tabela de Avaliação de Risco em seu modelo. Depois disso, calcule uma pontuação geral de Risco (1-9) para cada ameaça usando a fórmula(probabilidade x gravidade = risco).
+
+Observação: o número de linhas em uma tabela de risco pode variar, dependendo da Complexidade e do Escopo da Avaliação de Risco. Em geral, ela deve fornecer às partes interessadas uma visão geral abrangente de todos os Riscos significativos.
+
+Parte 3 - Propor recomendações de segurança
+Etapa 1: Explique sua abordagem
+Outra seção comumente incluída em uma avaliação de vulnerabilidade é uma explicação da sua abordagem. Isso ajuda as partes interessadas a entender seu processamento de avaliação dos Riscos identificados - acrescentando um contexto valioso para as partes interessadas.
+
+Você está realizando uma Avaliação de vulnerabilidade qualitativa, que se baseia em julgamento subjetivo para avaliar a probabilidade e a gravidade dos riscos. Sua tarefa aqui é estimar a gravidade dos ataques, julgando suas chances   com base em seu conhecimento de segurança. As Avaliações de vulnerabilidade qualitativas são úteis para identificar os riscos de alto nível enfrentados por uma organização. Essas informações ajudam as organizações a tomar decisões informadas sobre alocação de recursos, Plano de Projeto e outros aspectos de suas operações comerciais.
+
+Na seção Abordagem do seu modelo, escreva de 3 a 5 frases (60 a 100 palavras) explicando por que selecionou as 3 fontes de ameaças/eventos específicos que escolheu e por que acha que são riscos comerciais significativos.
+
+Etapa 2: Propor uma Estratégia de remediação
+Depois de realizar uma avaliação de vulnerabilidade, a criação de uma estratégia de correção bem definida é fundamental para proteger seus sistemas e dados. A estratégia de correção deve fornecer às partes interessadas etapas acionáveis que podem ser tomadas para remediar ou corrigir as vulnerabilidades para evitar ameaças.
+
+Observação: algumas ameaças não podem ser corrigidas. Nesses casos, é igualmente importante considerar uma estratégia de mitigação - um plano para reduzir a gravidade de uma ameaça.
+
+Pense nos riscos que poderiam ser remediados e/ou atenuados usando controles de segurança como
+
+Princípio do privilégio mínimo
+
+Defesa em profundidade
+
+Autenticação multifator (MFA)
+
+Authentication, Authorization, Accounting (AAA) framework
+
+Na seção Remediação do modelo, escreva de 3 a 5 frases (60 a 100 palavras) resumindo os controles de segurança específicos que poderiam ser implementados para remediar ou mitigar os riscos ao sistema de informações.
+
+Alinhe suas sugestões com os riscos que você avaliou. Por exemplo, você pode sugerir Infraestrutura de chave pública (PKI) para lidar com a exfiltração de informações confidenciais. 
+
+Dica profissional: Salve o modelo
+
+Por fim, não se esqueça de salvar uma cópia de sua atividade concluída. Você pode usá-la em seu Portfólio profissional para demonstrar seu conhecimento e/ou experiência a possíveis empregadores.
+
+O que incluir em sua resposta
+
+Certifique-se de abordar os seguintes elementos em sua atividade concluída:
+
+de 3 a 5 frases descrevendo os motivos para a realização da análise de segurança na seção Propósito 
+
+Uma seção de Avaliação de risco preenchida
+
+de 3 a 5 frases explicando o seu raciocínio sobre os riscos identificados na seção Abordagem 
+
+de 3 a 5 frases resumindo uma estratégia de correção e/ou atenuação na seção Remediação 
+
+
+Etapa 3: Avalie sua atividade
+O texto a seguir é uma autoavaliação para seu Relatório de avaliação de vulnerabilidade. Você usará essas declarações para revisar seu próprio trabalho. O processamento da autoavaliação é uma parte importante da experiência de aprendizagem porque permite que você avalie objetivamente seu relatório.
+
+Há um total de 5 pontos possíveis para essa atividade e cada declaração vale 1 ponto. Os itens correspondem a cada etapa concluída na atividade.
+
+Para concluir a autoavaliação, primeiro abra seu relatório de avaliação de vulnerabilidade. Em seguida, responda sim ou não a cada afirmação.
+
+Ao concluir e enviar suas respostas, você receberá uma pontuação percentual. Essa pontuação o ajudará a confirmar se concluiu as etapas necessárias da atividade. A nota de aprovação recomendada para essa atividade é de pelo menos 80% (ou 4/5 pontos). Se quiser aumentar sua pontuação, poderá revisar seu Projeto e reenviar suas respostas para refletir as mudanças feitas. Tente obter pelo menos 4 pontos antes de passar para o próximo item do curso.
