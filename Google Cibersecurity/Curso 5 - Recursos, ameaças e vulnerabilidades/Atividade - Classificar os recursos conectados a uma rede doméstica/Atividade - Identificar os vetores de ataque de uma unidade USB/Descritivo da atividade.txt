@@ -1,0 +1,18 @@
+Cenário
+-----------------
+Você faz parte da equipe de segurança do Rhetorical Hospital e chega ao trabalho certa manhã. No chão do estacionamento, você encontra um USB com o logotipo do hospital impresso nele. Não há mais ninguém por perto que possa tê-lo deixado cair, então você decide pegá-lo por curiosidade.
+
+Leva a unidade USB de volta ao seu escritório, onde a equipe tem um software de virtualização instalado em uma estação de trabalho. O software de virtualização pode ser usado exatamente para essa finalidade, pois é uma das únicas maneiras de investigar com segurança uma unidade USB desconhecida. O software funciona executando uma instância simulada do computador na mesma estação de trabalho. Essa simulação não está conectada a outros arquivos ou redes, de modo que a unidade USB não pode afetar outros sistemas se estiver infectada com software malicioso.
+-----------------
+Etapa 1: usar o modelo para este item do curso;
+-----------------
+Etapa 2: Inspeção do conteúdo do USB com a imagem Arquivos e diretórios do dispositivo.png.
+Analisar os tipos de informações que Jorge armazenou nesse dispositivo. Em seguida, na linha Conteúdo do modelo de atividade, escreva de 2 a 3 frases sobre o tipo de informação armazenada na unidade USB.
+-----------------
+Etapa 3: aplique uma mentalidade de ataque ao conteúdo da unidade USB
+Na linha de mentalidade do atacante do modelo de atividade, escreva de duas a três frases sobre como essas informações poderiam ser usadas contra Jorge ou o hospital.
+
+Dica profissional: A Cybersecurity and Infrastructure Security Agency (CISA) fornece algumas dicas de segurança sobre o uso cuidadoso de unidades USB(https://www.cisa.gov/news-events/news/using-caution-usb-drives), incluindo manter separadas as unidades pessoais e comerciais.
+-----------------
+Etapa 4: Analise os riscos de encontrar um estacionamento USB
+Na linha Análise de risco do modelo de atividade, escreva 3 ou 4 frases descrevendo quaisquer controles técnicos, operacionais ou gerenciais que possam atenuar os ataques de USB baiting.
